@@ -1,10 +1,11 @@
 # Excel-Dashboard-Analysis
 Excel data analysis projects for Data Analysis role  
 
-## project Overview
+## PROJECT OVERVIEW
 Interactive sales dashboard built using Excel.Analyzed sales data to find key business insights and trends    
 
-##Key Features 
+## Key Features   
+
 -sales by region:Which region generated max revenue      
 
 -top products:Best performing products analysis   
@@ -14,7 +15,8 @@ Interactive sales dashboard built using Excel.Analyzed sales data to find key bu
 -Interactive charts:Dynamic pivot charts & slice 
 
 
-## tools used 
+## TOOLS USED
+
 -Microsoft Excel     
 
 -Pivot Tables   
