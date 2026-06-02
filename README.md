@@ -12,6 +12,10 @@ Interactive sales dashboard built using Excel. Analyzed sales data to find key b
 - Monthly Trends: Sales growth month-wise
 - Interactive charts: Dynamic pivot charts & slicers
 
+  ## Dashboard Screenshot
+
+  ![Sales Dashboard](images/dashboard.png)
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
